@@ -1,1 +1,4 @@
-The codes used for core feedback analysis paper.
+Create visualisations from STARFORGE (GIZMO) snapshots. 
+Resulting images can be seen in the results folder.
+The code grids the H2 density for individual dendrogram structure and creates a contour on top of the H2 density map.
+Related paper: Neralwar 2024A&A...690A.345N
